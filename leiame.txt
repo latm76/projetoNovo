@@ -1,0 +1,10 @@
+Arquivo de teste do projeto X
+
+inicio
+inteiro: x,y;
+se x > 0 entao
+	y = 10
+senao
+	y = 20
+fimse
+fim
